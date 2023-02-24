@@ -1,3 +1,4 @@
 Denis 10
 john 8
 jack 9
+mary 10
