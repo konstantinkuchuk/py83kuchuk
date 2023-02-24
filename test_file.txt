@@ -2,3 +2,5 @@ Denis 10
 john 8
 jack 9
 mary 10
+peter 10
+will 5
